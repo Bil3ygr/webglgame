@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "spaceshooting_lua",
-"dataUrl": "新建文件夹.data.unityweb",
-"wasmCodeUrl": "新建文件夹.wasm.code.unityweb",
-"wasmFrameworkUrl": "新建文件夹.wasm.framework.unityweb",
+"dataUrl": "spaceshooting.data.unityweb",
+"wasmCodeUrl": "spaceshooting.wasm.code.unityweb",
+"wasmFrameworkUrl": "spaceshooting.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
