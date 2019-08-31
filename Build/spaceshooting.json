@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "spaceshooting_lua",
+"productName": "mygame",
 "dataUrl": "spaceshooting.data.unityweb",
 "wasmCodeUrl": "spaceshooting.wasm.code.unityweb",
 "wasmFrameworkUrl": "spaceshooting.wasm.framework.unityweb",
