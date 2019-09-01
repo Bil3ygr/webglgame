@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2585769693
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: data.ab
+      Dependencies: {}
