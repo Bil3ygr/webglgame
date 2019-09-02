@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1635666513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1bd923601ea02fcd88b3dba97692e2de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaTxt/Hero.lua.txt
+- Assets/LuaTxt/Utils.lua.txt
+- Assets/LuaTxt/SpaceShooting.lua.txt
+- Assets/LuaTxt/Shield.lua.txt
+- Assets/LuaTxt/Manager.lua.txt
+- Assets/LuaTxt/Main.lua.txt
+- Assets/LuaTxt/Projectile.lua.txt
+- Assets/LuaTxt/Weapon.lua.txt
+- Assets/LuaTxt/GameOverUI.lua.txt
+- Assets/LuaTxt/MainUI.lua.txt
+- Assets/LuaTxt/Paralleax.lua.txt
+- Assets/LuaTxt/ScoreUI.lua.txt
+- Assets/LuaTxt/PowerUp.lua.txt
+- Assets/LuaTxt/Timer.lua.txt
+- Assets/LuaTxt/Enemy.lua.txt
+Dependencies: []

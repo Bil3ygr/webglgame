@@ -1,7 +1,14 @@
 ManifestFileVersion: 0
-CRC: 2585769693
+CRC: 3492519787
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: data.ab
+      Name: resources
       Dependencies: {}
+    Info_1:
+      Name: data
+      Dependencies: {}
+    Info_2:
+      Name: prefab
+      Dependencies:
+        Dependency_0: resources

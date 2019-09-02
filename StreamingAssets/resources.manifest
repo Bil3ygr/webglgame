@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2901825210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b7d517a38da0ebe4ae0713eeea08ede
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/PowerUp.psd
+- Assets/Resources/Material/Mat_Starfield.mat
+- Assets/Resources/Space.png
+- Assets/Resources/Material/Mat_PowerUp.mat
+- Assets/Resources/Material/UnlitAlpha.shader
+- Assets/Resources/Material/Mat_Projectile.mat
+- Assets/Resources/Shields.psd
+- Assets/Resources/Material/Mat_Shield.mat
+- Assets/Resources/Space_Transparent.png
+- Assets/Resources/Material/Mat_Starfield_Transparent.mat
+- Assets/Resources/Material/Mat_Collar.mat
+Dependencies: []
