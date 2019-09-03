@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2509421574
+CRC: 4250923564
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35efe9cfa6b09d67a0a1637f49ca86e0
+    Hash: e037000796001ef0fd7ebf5b22c84cb6
   TypeTreeHash:
     serializedVersion: 2
     Hash: d3dbf2c10bd6345b3e6d6abfe5ebdb5d
@@ -67,4 +67,4 @@ Assets:
 - Assets/Resources/Prefab/UI.prefab
 - Assets/Resources/Prefab/PowerUp.prefab
 Dependencies:
-- Z:/mygame/Assets/StreamingAssets/resources
+- Z:/mygame/Assets/StreamingAssets/material

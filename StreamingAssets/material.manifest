@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 185327503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b39fe19891847c14764347c24c0d367
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Material/Mat_Starfield.mat
+- Assets/Resources/Material/Mat_PowerUp.mat
+- Assets/Resources/Material/Mat_Projectile.mat
+- Assets/Resources/Material/Mat_Shield.mat
+- Assets/Resources/Material/Mat_Starfield_Transparent.mat
+- Assets/Resources/Material/Mat_Collar.mat
+Dependencies:
+- Z:/mygame/Assets/StreamingAssets/shader
+- Z:/mygame/Assets/StreamingAssets/texture
