@@ -1,13 +1,16 @@
 {
 "companyName": "DefaultCompany",
 "productName": "mygame",
+"productVersion": "0.1",
 "dataUrl": "spaceshooting.data.unityweb",
 "wasmCodeUrl": "spaceshooting.wasm.code.unityweb",
 "wasmFrameworkUrl": "spaceshooting.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.3f1"
 }
