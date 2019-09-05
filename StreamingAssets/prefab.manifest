@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3479906706
+CRC: 2436510072
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0747f5294280a90bb15de5d811510ed4
+    Hash: 363753ca87521fb33e222b9e6db90415
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a86e0857b2537d89bbd1262a6cd10a05
+    Hash: a980de22327f45b985fc39cced60a4b8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -51,6 +51,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 222
@@ -59,8 +61,11 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Prefab/Weapon.prefab
+- Assets/Resources/Prefab/AppleTree.prefab
 - Assets/Resources/Prefab/GameOver.prefab
+- Assets/Resources/Prefab/Basket.prefab
 - Assets/Resources/Prefab/ProjectileHero.prefab
+- Assets/Resources/Prefab/Apple.prefab
 - Assets/Resources/Prefab/Hero.prefab
 - Assets/Resources/Prefab/Enemy_1.prefab
 - Assets/Resources/Prefab/MainUI.prefab

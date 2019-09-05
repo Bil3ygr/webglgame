@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1115212342
+CRC: 967213256
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6ea9534d66508e3df52cbce12df85958
+    Hash: f9a9ece725ae6ad144e0cf174f1d099b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2164263bd948184a9373784f776f453a
@@ -20,7 +20,11 @@ Assets:
 - Assets/Resources/Material/Mat_PowerUp.mat
 - Assets/Resources/Material/Mat_Projectile.mat
 - Assets/Resources/Material/Mat_Shield.mat
+- Assets/Resources/Material/Mat_Basket.mat
+- Assets/Resources/Material/Mat_Apple.mat
+- Assets/Resources/Material/Mat_Wood.mat
 - Assets/Resources/Material/Mat_Starfield_Transparent.mat
+- Assets/Resources/Material/Mat_Leaves.mat
 - Assets/Resources/Material/Mat_Collar.mat
 Dependencies:
 - Z:/mygame/Assets/StreamingAssets/shader

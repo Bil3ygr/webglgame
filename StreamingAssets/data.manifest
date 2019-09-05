@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3325013086
+CRC: 254548341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60bac3a7c3c53b1c7517ebe72cea9cc1
+    Hash: e390cc34de6241453fdce4e1cf6455de
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -12,19 +12,23 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/LuaTxt/Hero.lua.txt
+- Assets/LuaTxt/ApplePicker/Basket.lua.txt
+- Assets/LuaTxt/SpaceShooting/Hero.lua.txt
 - Assets/LuaTxt/Utils.lua.txt
 - Assets/LuaTxt/SpaceShooting.lua.txt
-- Assets/LuaTxt/Shield.lua.txt
-- Assets/LuaTxt/Manager.lua.txt
+- Assets/LuaTxt/SpaceShooting/Shield.lua.txt
 - Assets/LuaTxt/Main.lua.txt
-- Assets/LuaTxt/Projectile.lua.txt
-- Assets/LuaTxt/Weapon.lua.txt
-- Assets/LuaTxt/GameOverUI.lua.txt
+- Assets/LuaTxt/ApplePicker/Apple.lua.txt
+- Assets/LuaTxt/SpaceShooting/Paralleax.lua.txt
+- Assets/LuaTxt/SpaceShooting/Projectile.lua.txt
+- Assets/LuaTxt/SpaceShooting/Enemy.lua.txt
+- Assets/LuaTxt/ApplePicker/AppleTree.lua.txt
+- Assets/LuaTxt/ApplePicker.lua.txt
+- Assets/LuaTxt/SpaceShooting/GameOverUI.lua.txt
 - Assets/LuaTxt/MainUI.lua.txt
-- Assets/LuaTxt/Paralleax.lua.txt
-- Assets/LuaTxt/ScoreUI.lua.txt
-- Assets/LuaTxt/PowerUp.lua.txt
+- Assets/LuaTxt/SpaceShooting/Manager.lua.txt
+- Assets/LuaTxt/SpaceShooting/Weapon.lua.txt
 - Assets/LuaTxt/Timer.lua.txt
-- Assets/LuaTxt/Enemy.lua.txt
+- Assets/LuaTxt/SpaceShooting/ScoreUI.lua.txt
+- Assets/LuaTxt/SpaceShooting/PowerUp.lua.txt
 Dependencies: []
